@@ -1,2 +1,2 @@
 # Covid-Data-Exploration-using-SQL
-SQL was used for data exploration and creating individual datasets to be used in Covid Analysis Dashboard. You can download the dataset at https://www.kaggle.com/datasets/shubhambhardwaj01/covid-dataset-for-sql-data-exploration
+SQL was used for data exploration using 2 datasets which contained data related to number deaths and vaccinations around the globe and and further these sql commands were used for creating 4 individual datasets which were used in Covid Analysis Dashboard 3. You can download the dataset at https://www.kaggle.com/datasets/shubhambhardwaj01/covid-dataset-for-sql-data-exploration
